@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Samim-FD";
-    src: url(../fonts/Samim-FD.woff) , format(woff);
+    src: url(fonts/Samim-FD.woff) , format(woff);
 }
 *{
     margin: 0;
@@ -14,7 +14,7 @@ body{
     
 }
 .container{
-    background: linear-gradient(RGBA(13,70,83,0.78) , RGBA(13,70,83,0.78)), url(../img/bg-banner.jpg);
+    background: linear-gradient(RGBA(13,70,83,0.78) , RGBA(13,70,83,0.78)), url(img/bg-banner.jpg);
     width: 100%;
     height: 635px;
 }
