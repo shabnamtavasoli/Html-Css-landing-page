@@ -14,7 +14,7 @@ This project is created as a sample portfolio project.
 - CSS3
 
 ## Preview
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot)
 
 ## Live Demo
 [View Online](https://shabnamtavasoli.github.io/Html-Css-landing-page/)
